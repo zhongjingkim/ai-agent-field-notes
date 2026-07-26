@@ -17,7 +17,7 @@ My focus is not only whether an agent can write code. I am interested in whether
 
 ## Articles
 
-1. *24-Hour AI Development Is Closer Than It Looks—But It Needs a Verifiable Orchestrator* — publishing soon.
+1. [24-Hour AI Development Is Closer Than It Looks—But It Needs a Verifiable Orchestrator](articles/24-hour-ai-development-needs-a-verifiable-orchestrator.md)
 
 ## Perspective
 
